@@ -1,5 +1,5 @@
 # Hours of Operation Truncation and Customer Impacts Analysis
-![image]()
+![image](https://github.com/joelmsherman/Customer-Arrivals/blob/master/Images/image.jpg)
 
 ## Background
 Widget Inc sells a variety of consumer products to hundreds of customers in several store locations in the Portland metropolitan region.  Widgets hours of operation for two of its locations are generous to early morning and late evening customers, but as a result, have dramatically increased operating costs.  Widget's operations team would like to assess the effect of truncating store hours on its customers, but relevant data is only available in excel spreadsheets that are prepared periodically by company analysts.   
